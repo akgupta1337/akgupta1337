@@ -8,9 +8,9 @@ Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and
 - 🌱 Currently learning and experimenting with code.
 - 💡 Interested in NLP and Computer Vision.
 
-
-
-[![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical)](https://github.com/akgupta1337)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical" alt="Akhil's GitHub Stats">
+</p>
 
 <!---
 akgupta1337/akgupta1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
