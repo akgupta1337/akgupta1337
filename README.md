@@ -8,19 +8,9 @@ Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and
 - 🌱 Currently learning and experimenting with code.
 - 💡 Interested in NLP and Computer Vision.
 
-## GitHub Stats
-
-[![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical)](https://github.com/akgupta1337)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akgupta1337&layout=compact)](https://github.com/akgupta1337)
-
-## GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akgupta1337&theme=dark)](https://github.com/akgupta1337)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical" alt="Akhil's GitHub Stats">
+</p>
 
 
 Thanks for stopping by! Happy coding! 🚀
