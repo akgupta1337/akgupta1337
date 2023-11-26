@@ -16,9 +16,11 @@ Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akgupta1337&layout=compact)](https://github.com/akgupta1337)
 
-## GitHub Activity Overview
+## GitHub Streak
 
-[![Akhil's GitHub Activity Overview](https://profile-summary-for-github.com/user/akgupta1337)](https://github.com/akgupta1337)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akgupta1337&theme=dark)](https://github.com/akgupta1337)
+
+
 
 
 Thanks for stopping by! Happy coding! 🚀
