@@ -1,12 +1,26 @@
-👋 Hey there, I'm Akhil Kumar Gupta, a B.Tech student specializing in Artificial Intelligence and Machine Learning at Lovely Professional University. 🤖
+# Welcome to Akhil's GitHub!
 
-🧠 Driven by a passion for logic and deeply devoted to my family, I'm on a mission to master technology and revolutionize education through AI. I prioritize deep understanding over memorization.
+Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and data science.
 
-🚀 Inspired by my hardworking and devoted parents, I'm committed to making a positive impact on the world through technology.
+## About Me
 
-💡 Let's collaborate, code, and build a brighter future! 🌐
+- 😊 I'm enthusiastic about logical problem-solving.
+- 🌱 Currently learning and experimenting with code.
+- 💡 Interested in NLP and Computer Vision.
 
-#AI #MachineLearning #Education #TechEnthusiast
+## GitHub Stats
+
+[![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical)](https://github.com/akgupta1337)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akgupta1337&layout=compact)](https://github.com/akgupta1337)
+
+## Contribution Graph
+
+[![Akhil's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akgupta1337)](https://github.com/akgupta1337)
+
+Thanks for stopping by! Happy coding! 🚀
 
 <!---
 akgupta1337/akgupta1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
