@@ -1,12 +1,12 @@
 # Welcome to Akhil's GitHub!
 
-Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and data science.
+Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and machine learning.
 
 ## About Me
 
 - 😊 I'm enthusiastic about logical problem-solving.
 - 🌱 Currently learning and experimenting with code.
-- 💡 Interested in NLP and Computer Vision.
+- 💡 Interested in IoT and Computer Vision.
 
 [![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical)](https://github.com/akgupta1337)
 
