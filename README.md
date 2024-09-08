@@ -3,8 +3,7 @@ I started learning about computers and softwares when I joined college, My first
 I realized that despite have problem in remembering and mugging up things at school, I am quite good at this programming thing. I love building logic, creating projects, solving real life problems.
 I am a very practical person, I dont like theory much.
 This is where I can show the world what I can do.
-I am very lazy too haha...
-
+I am very lazy and stubborn too haha and often try to become a perfectionist sometimes.
 <!---
 akgupta1337/akgupta1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
