@@ -1,14 +1,9 @@
-# Welcome to Akhil's GitHub!
-
-Hello! I'm Akhil, a beginner exploring the world of programming, algorithms, and machine learning.
-
-## About Me
-
-- 😊 I'm enthusiastic about logical problem-solving.
-- 🌱 Currently learning and experimenting with code.
-
-
-[![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgupta1337&show_icons=true&theme=radical)](https://github.com/akgupta1337)
+I am from a tier 3 college, currently 2nd year(2024). I don't like rat races and competitions. I prefer collaboration and gamification instead.
+I started learning about computers and softwares when I joined college, My first language was python, I made quite lot of projects on that. 
+I realized that despite have problem in remembering and mugging up things at school, I am quite good at this programming thing. I love building logic, creating projects, solving real life problems.
+I am a very practical person, I dont like theory much.
+This is where I can show the world what I can do.
+Thanks for reading till here.
 
 <!---
 akgupta1337/akgupta1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
